@@ -139,6 +139,9 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
+        ("/pages/live", "Live"),
+        ("/pages/about", "About"),
+        ("/pages/contact", "Contact"),
         ("/rss.xml", "RSS feed"),
     ),
 
@@ -157,7 +160,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "bootstrap4-jinja"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
