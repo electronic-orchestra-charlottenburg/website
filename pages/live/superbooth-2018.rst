@@ -13,12 +13,23 @@ Info
 On 5th May 2018 the EOC played at |superbooth|. We brought a 12-channel speaker
 system for this performance with seven modular synthesizers.
 
+.. image:: /images/20180505-eoc-in_concert.jpg
+
+
 Pieces
 ######
 
-* "Rotation" by Henrik von Coler
-* "Discount" by Henrik von Coler
-* "Improvisation"
+"Rotation" by Henrik von Coler (2017)
+-------------------------------------
+|eoc-rotation|
+
+"Discount" by Henrik von Coler (2017)
+-------------------------------------
+|eoc-discount|
+
+"Improvisation"
+---------------
+|eoc-improvisation|
 
 Cast
 ####
@@ -33,9 +44,24 @@ Cast
 * Robin Burke (Modular Synthesizer)
 * Rodrigo Sena (Modular Synthesizer)
 
-Media
-#####
-
 .. |superbooth| raw:: html
 
   <a href="https://2018.superbooth.com/en/" target="_blank">SuperBooth 2018</a>
+
+.. |eoc-discount| raw:: html
+
+  <audio controls preload="none">
+    <source src="/audio/20180505-EOC-Discount.mp3" type="audio/mp3">
+  </audio>
+
+.. |eoc-rotation| raw:: html
+
+  <audio controls preload="none">
+    <source src="/audio/20180505-EOC-Rotation.mp3" type="audio/mp3">
+  </audio>
+
+.. |eoc-improvisation| raw:: html
+
+  <audio controls preload="none">
+    <source src="/audio/20180505-EOC-Improvisation.mp3" type="audio/mp3">
+  </audio>
