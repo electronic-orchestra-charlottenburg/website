@@ -31,6 +31,7 @@ Cast
 * David Runge (Modular Synthesizer)
 * Henrik von Coler (Mixing, Spatialization)
 * Jonas Margraf (Modular Synthesizer)
+* Klaus Scheuermann (Modular Synthesizer)
 * Pascal Staudt (Push Pull)
 * Paul Schuladen (Tech, Recording)
 * Robin Burke (Modular Synthesizer)
