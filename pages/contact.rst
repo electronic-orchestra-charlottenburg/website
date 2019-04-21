@@ -14,9 +14,9 @@ However, you can also follow the EOC on |Facebook|.
 
 .. |e-mail| raw:: html
 
-  <a href="mailto:info@elorch.de" target="_blank">e-mail</a>
+  <a href="mailto:voncoler@tu-berlin.de" target="_blank">e-mail</a>
 
 .. |Facebook| raw:: html
 
-  <a href="https://facebook.com/eocmusik" target="_blank">e-mail</a>
+  <a href="https://facebook.com/eocmusik" target="_blank">Facebook</a>
 
