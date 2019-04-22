@@ -20,7 +20,7 @@ BLOG_AUTHOR = "Electronic Orchestra Charlottenburg"  # (translatable)
 BLOG_TITLE = "Electronic Orchestra Charlottenburg"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://elorch.de/"
+SITE_URL = "https://eo-charlottenburg.de/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://eo-charlottenburg.de/"
