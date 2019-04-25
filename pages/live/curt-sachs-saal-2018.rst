@@ -67,17 +67,17 @@ Cast
 .. |eoc-discount| raw:: html
 
   <audio controls preload="none">
-    <source src="/audio/20180313-EOC-Discount.mp3" type="audio/mp3">
+    <source src="https://static.eo-charlottenburg.de/audio/20180313-EOC-Discount.mp3" type="audio/mp3">
   </audio>
 
 .. |eoc-treatise| raw:: html
 
   <audio controls preload="none">
-    <source src="/audio/20180313-EOC-Treatise.mp3" type="audio/mp3">
+    <source src="https://static.eo-charlottenburg.de/audio/20180313-EOC-Treatise.mp3" type="audio/mp3">
   </audio>
 
 .. |eoc-metaphysics_of_notation| raw:: html
 
   <audio controls preload="none">
-    <source src="/audio/20180313-EOC-Metaphysics_of_Notation.mp3" type="audio/mp3">
+    <source src="https://static.eo-charlottenburg.de/audio/20180313-EOC-Metaphysics_of_Notation.mp3" type="audio/mp3">
   </audio>

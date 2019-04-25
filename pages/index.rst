@@ -1,18 +1,40 @@
-.. title: Elektronisches Orchester Charlottenburg
+.. title: EOC
 .. slug: index
-.. date: 2019-04-25 23:10:42 UTC+02:00
+.. date: 2019-04-07 20:10:18 UTC+02:00
 .. tags: 
 .. category: 
 .. link: 
 .. description: 
 .. type: text
 
+The Electronic Orchestra Charlottenburg (EOC) consists of a group of electronic
+and/or electro-acoustic musicians and programmers. Its sound is dispersed over
+multi-channel systems with the help of spatial rendering techniques such as
+ambisonics.
 
+------------------------------------------------------------------
+Current or members of the EOC:
+------------------------------------------------------------------
 
-.. class:: col-md-5
+* Andrea Lange (Modular Synthesizer, Electronics, Tape)
+* Andreas Schuller (Modular Synthesizer)
+* Anyere Bendrien (Modular Synthesizer)
+* David Runge (Modular Synthesizer)
+* Henrik von Coler (Mixing, Spatialization)
+* Jonas Margraf (Modular Synthesizer)
+* Klaus Scheuermann (Modular Synthesizer)
+* Pascal Staudt (Push Pull)
+* Robin Burke (Modular Synthesizer)
+* Rodrigo Sena (Modular Synthesizer)
 
-The Electronic Orchestra Charlottenburg (EOC) explores the improvisation and interpretation of Electroacoustic Music.
-This includes the interaction of diverse electronic instruments and their spatialization in real time. 
-The EOC was founded at the Electronic Music Studio at TU Berlin within a seminar of the Audio Communication Group. 
-It offers a platform for developing and applying new instruments and concepts in the realm of electroacoustic music. 
-Currently it consists of 10 participants, among whom are students and alumni of different backgrounds as well as external musicians.
+ 
+--------------------------
+Past and inactive members:
+--------------------------
+
+* Canberk Turan (Digital Effects)
+* Fabian Werfel (Effects/ Feedback System)
+* Juan Song (Guqin)
+* Lucas Weidinger (Modular Synthesizer)
+* Nicole Lujan (Processed Recordings)
+* Viktor Schlüter (Analog Synthesizer)
