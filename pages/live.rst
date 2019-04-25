@@ -19,8 +19,8 @@ Upcoming Events
 Past Events
 ###########
 
-* 2019-03-09: EOC @ `Artisten-Halle </live/artisten-halle-2019>`_ (Holzmarkt), Berlin
-* 2018-10-28: EOC @ `Sinuston </live/sinuston-2018>`_, Magdeburg
-* 2018-06-09: EOC @ `Linux Audio Conference 2018 </live/linux-audio-conference-2018>`_ (Native Space), Berlin
-* 2018-05-05: EOC @ `SuperBooth </live/superbooth-2018>`_ (FEZ), Berlin
-* 2018-02-12: EOC @ `Curt-Sachs-Saal </live/curt-sachs-saal-2018>`_ (SIM), Berlin
+* 2019-03-09: `Artisten-Halle </live/artisten-halle-2019>`_ (Holzmarkt), Berlin
+* 2018-10-28: `Sinuston </live/sinuston-2018>`_, Magdeburg
+* 2018-06-09: `Linux Audio Conference 2018 </live/linux-audio-conference-2018>`_ (Native Space), Berlin
+* 2018-05-05: `SuperBooth </live/superbooth-2018>`_ (FEZ), Berlin
+* 2018-02-12: `Curt-Sachs-Saal </live/curt-sachs-saal-2018>`_ (SIM), Berlin
