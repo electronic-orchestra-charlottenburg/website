@@ -16,8 +16,8 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Electronic Orchestra Charlottenburg"  # (translatable)
-BLOG_TITLE = "Electronic Orchestra Charlottenburg"  # (translatable)
+BLOG_AUTHOR = "Electronisches Orchester Charlottenburg"  # (translatable)
+BLOG_TITLE = "Electronisches Orchester Charlottenburg"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://eo-charlottenburg.de/"
