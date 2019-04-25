@@ -51,17 +51,17 @@ Cast
 .. |eoc-discount| raw:: html
 
   <audio controls preload="none">
-    <source src="/audio/20180505-EOC-Discount.mp3" type="audio/mp3">
+    <source src="https://static.eo-charlottenburg.de/audio/20180505-EOC-Discount.mp3" type="audio/mp3">
   </audio>
 
 .. |eoc-rotation| raw:: html
 
   <audio controls preload="none">
-    <source src="/audio/20180505-EOC-Rotation.mp3" type="audio/mp3">
+    <source src="https://static.eo-charlottenburg.de/audio/20180505-EOC-Rotation.mp3" type="audio/mp3">
   </audio>
 
 .. |eoc-improvisation| raw:: html
 
   <audio controls preload="none">
-    <source src="/audio/20180505-EOC-Improvisation.mp3" type="audio/mp3">
+    <source src="https://static.eo-charlottenburg.de/audio/20180505-EOC-Improvisation.mp3" type="audio/mp3">
   </audio>
