@@ -153,7 +153,8 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootstrap4-jinja"
+#THEME = "bootstrap4-jinja"
+THEME = "cadair"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
@@ -1343,3 +1344,5 @@ GLOBAL_CONTEXT = {}
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
+INDEX_PATH = "blog"

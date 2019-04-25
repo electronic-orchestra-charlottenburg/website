@@ -12,22 +12,29 @@ and/or electro-acoustic musicians and programmers. Its sound is dispersed over
 multi-channel systems with the help of spatial rendering techniques such as
 ambisonics.
 
-Current or past members of the Electronic Orchestra Charlottenburg are (in
-alphabetical order):
+------------------------------------------------------------------
+Current or members of the EOC:
+------------------------------------------------------------------
 
-* Andrea Lange (Modular Synthesizer, Tape)
+* Andrea Lange (Modular Synthesizer, Electronics, Tape)
 * Andreas Schuller (Modular Synthesizer)
 * Anyere Bendrien (Modular Synthesizer)
-* Canberk Turan (Digital Effects)
 * David Runge (Modular Synthesizer)
-* Fabian Werfel (Effects/ Feedback System)
 * Henrik von Coler (Mixing, Spatialization)
 * Jonas Margraf (Modular Synthesizer)
-* Juan Song (Guqin)
 * Klaus Scheuermann (Modular Synthesizer)
-* Lucas Weidinger (Modular Synthesizer)
-* Nicole Lujan (Processed Recordings)
 * Pascal Staudt (Push Pull)
 * Robin Burke (Modular Synthesizer)
 * Rodrigo Sena (Modular Synthesizer)
+
+ 
+--------------------------
+Past and inactive members:
+--------------------------
+
+* Canberk Turan (Digital Effects)
+* Fabian Werfel (Effects/ Feedback System)
+* Juan Song (Guqin)
+* Lucas Weidinger (Modular Synthesizer)
+* Nicole Lujan (Processed Recordings)
 * Viktor Schlüter (Analog Synthesizer)
