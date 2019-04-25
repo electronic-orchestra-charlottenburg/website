@@ -138,7 +138,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/live", "Live"),
         ("/contact", "Contact"),
-        ("/about", "About"),
+        ("/blog", "Blog"),
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
         ("/rss.xml", "RSS"),
