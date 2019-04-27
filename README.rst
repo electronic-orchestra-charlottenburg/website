@@ -38,6 +38,12 @@ afterwards (if that's not already the case):
 Working with the code base
 ##########################
 
+Downlaod and install the current theme (defined via *THEME* in conf.py):
+
+  .. code:: bash
+
+    nikola theme -i cadair
+
 Build the website:
 
   .. code:: bash
