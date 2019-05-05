@@ -153,10 +153,6 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-<<<<<<< HEAD
-=======
-#THEME = "bootstrap4-jinja"
->>>>>>> hvc
 THEME = "cadair"
 
 # Primary color of your theme. This will be used to customize your theme.
