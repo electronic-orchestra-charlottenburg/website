@@ -12,23 +12,29 @@ and/or electro-acoustic musicians and programmers. Its sound is dispersed over
 multi-channel systems with the help of spatial rendering techniques such as
 ambisonics.
 
+------------------------------------------------------------------
+Current or members of the EOC:
+------------------------------------------------------------------
+
+* Andrea Lange (Modular Synthesizer, Electronics, Tape)
+* Andreas Schuller (Modular Synthesizer)
+* Anyere Bendrien (Modular Synthesizer)
+* David Runge (Modular Synthesizer)
+* Henrik von Coler (Mixing, Spatialization)
+* Jonas Margraf (Modular Synthesizer)
+* Klaus Scheuermann (Modular Synthesizer)
+* Pascal Staudt (Push Pull)
+* Robin Burke (Modular Synthesizer)
+* Rodrigo Sena (Modular Synthesizer)
 
  
-Upcoming Concerts
-=================
+--------------------------
+Past and inactive members:
+--------------------------
 
-
-Kontakte Festival, Berlin
--------------------------
-
-26.09.2019 - 22:30
-Adk, Hanseatenweg
-
-
-
-
-
-NOW! Essen
-----------
-
-26.10.2019 - 22:00
+* Canberk Turan (Digital Effects)
+* Fabian Werfel (Effects/ Feedback System)
+* Juan Song (Guqin)
+* Lucas Weidinger (Modular Synthesizer)
+* Nicole Lujan (Processed Recordings)
+* Viktor Schlüter (Analog Synthesizer)
