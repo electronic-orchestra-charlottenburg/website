@@ -1,5 +1,11 @@
+
+@font-face {
+    font-family: railway;
+    src: url(../fonts/Railway-Semibold.ttf);
+}
+
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: railway, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 a {
     color: #05376e;
