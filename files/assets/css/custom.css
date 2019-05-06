@@ -2,5 +2,8 @@ body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 a {
-    color: black;
+    color: #05376e;
+}
+a:hover {
+    color: #05376e;
 }
