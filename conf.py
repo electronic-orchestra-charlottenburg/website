@@ -138,6 +138,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/live", "Live"),
         ("/contact", "Contact"),
+        ("/photos", "Photos"),
         ("/blog", "Blog"),
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
@@ -153,7 +154,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "cadair"
+THEME = "bootstrap4"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
