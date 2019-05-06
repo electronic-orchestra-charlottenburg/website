@@ -16,15 +16,15 @@ project of the Electronic Music Studio at TU Berlin, explores means of
 organizing and spatializing the seemingly infinite diversity of electronic
 sounds in a larger ensemble.
 
-.. figure:: /images/20180313-eoc-in_concert.jpg
+.. figure:: /images/20180210-eoc-in_concert.jpg
   :alt: EOC in concert.
 
-  EOC in concert, 2018-02-12 at Curt-Sachs-Saal, SIM (Photo by Jörg Riehle)
+  EOC in concert, 2018-02-10 at Curt-Sachs-Saal, SIM (Photo by Jörg Riehle)
 
-.. figure:: /images/20180313-eoc-rehearsals.jpg
+.. figure:: /images/20180210-eoc-rehearsals.jpg
   :alt: EOC during rehearsals.
 
-  Dress Rehearsal at Curt-Sachs-Saal, 2018-02-10 (Photo by Jörg Riehle)
+  EOC Dress Rehearsal, 2018-02-10 at Curt-Sachs-Saal, SIM (Photo by Jörg Riehle)
 
 
 Pieces
