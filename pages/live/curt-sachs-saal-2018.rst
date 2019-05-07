@@ -26,6 +26,7 @@ sounds in a larger ensemble.
 
   EOC Dress Rehearsal, 2018-02-10 at Curt-Sachs-Saal, SIM (Photo by Jörg Riehle)
 
+More photos can be found in the `gallery </photos/2018/curt-sachs-saal>`_.
 
 Pieces
 ######
@@ -44,7 +45,6 @@ Pieces
 
 .. [1] Dummy head recordings, mixed with synthesized binaural mix from the
        original speaker signals.
-
 
 Cast
 ####
