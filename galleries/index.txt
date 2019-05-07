@@ -1,0 +1,5 @@
+.. title: Photos
+.. slug: photos
+.. tags: photos, gallery
+.. category: photos
+.. summary:
