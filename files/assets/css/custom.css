@@ -1,15 +1,17 @@
-
 @font-face {
     font-family: railway;
     src: url(../fonts/Railway-Semibold.ttf);
 }
-
 body {
     font-family: railway, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #d8d8d8;
 }
 a {
     color: #05376e;
 }
 a:hover {
     color: #05376e;
+}
+#footer {
+  border-top: 1px solid #cbcbcb;
 }
