@@ -13,7 +13,10 @@ Info
 On 5th May 2018 the EOC played at |superbooth|. We brought a 12-channel speaker
 system for this performance with seven modular synthesizers.
 
-.. image:: /images/20180505-eoc-in_concert.jpg
+.. figure:: /images/20180505-eoc-in_concert.jpg
+  :alt: EOC in concert.
+
+  EOC in concert, 2018-05-05 at FEZ, Berlin
 
 
 Pieces

@@ -13,8 +13,8 @@ find all information on past and upcoming events.
 Upcoming Events
 ###############
 
-* 2019-10-26: TBA
-* 2019-09-26: TBA
+* 2019-10-26: `NOW! </live/now-2019>`_, Essen
+* 2019-09-26: `Kontakte 2019 </live/kontakte-2019>`_ (Adk), Berlin
 
 Past Events
 ###########

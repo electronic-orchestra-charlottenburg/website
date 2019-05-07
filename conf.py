@@ -136,13 +136,11 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ("/news", "News"),
         ("/live", "Live"),
-        ("/contact", "Contact"),
         ("/photos", "Photos"),
-        ("/blog", "Blog"),
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS"),
+        ("/about", "About"),
+        ("/contact", "Contact"),
     ),
 }
 
@@ -218,10 +216,10 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
-    ("posts/*.rst", "blog", "post.tmpl"),
-    ("posts/*.md", "blog", "post.tmpl"),
-    ("posts/*.txt", "blog", "post.tmpl"),
-    ("posts/*.html", "blog", "post.tmpl"),
+    ("posts/*.rst", "news", "post.tmpl"),
+    ("posts/*.md", "news", "post.tmpl"),
+    ("posts/*.txt", "news", "post.tmpl"),
+    ("posts/*.html", "news", "post.tmpl"),
 )
 PAGES = (
     ("pages/*.rst", "", "page.tmpl"),
@@ -535,7 +533,7 @@ HIDDEN_AUTHORS = ['Guest']
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
 # (translatable)
-INDEX_PATH = "blog"
+INDEX_PATH = "news"
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
@@ -927,7 +925,9 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> {license}'
+CONTENT_FOOTER = '&copy; {date}         <a href="mailto:{email}">{author}</a> {license} \
+        | <a href="/rss.xml" >RSS</a> \
+        | <a href="https://facebook.com/eocmusik" >Facebook</a>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -1344,5 +1344,3 @@ GLOBAL_CONTEXT = {}
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
-
-INDEX_PATH = "blog"
