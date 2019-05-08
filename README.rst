@@ -7,6 +7,16 @@ Charlottenburg.
 |nikola| is used to generate the static content from this source code
 repository. Have a look at its |handbook| for more information.
 
+The website is configured in `conf.py`. Its pages are generated from |rst|
+files in the pages directory and its news from |rst| files in the posts
+directory.
+The photo galleries are created from files in directory structures under the
+galleries directory and anything placed in the files directory will be copied
+to the root of the website.
+
+Currently a standard theme is used with slight modifications applied from
+`files/assets/css/custom.css`
+
 Installing nikola
 #################
 
@@ -37,12 +47,6 @@ afterwards (if that's not already the case):
 
 Working with the code base
 ##########################
-
-Downlaod and install the current theme (defined via *THEME* in conf.py):
-
-  .. code:: bash
-
-    nikola theme -i cadair
 
 Build the website:
 
@@ -79,4 +83,8 @@ To deploy the website to its webserver destination:
 .. |handbook| raw:: html
 
   <a href="https://getnikola.com/handbook.html" target="_blank">handbook</a>
+
+.. |rst| raw:: html
+
+  <a href="http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html" target="_blank">reStructuredText</a>
 
