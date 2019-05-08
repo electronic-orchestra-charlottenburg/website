@@ -24,10 +24,10 @@ Current members
 * Andrea Lange (Modular Synthesizer, Electronics, Tape)
 * Andreas Schuller (Modular Synthesizer)
 * Anyere Bendrien (Modular Synthesizer)
-* David Runge (Modular Synthesizer)
-* Henrik von Coler (Mixing, Spatialization)
+* |david_runge| (Modular Synthesizer)
+* |henrik_von_coler| (Mixing, Spatialization)
 * Jonas Margraf (Modular Synthesizer)
-* Klaus Scheuermann (Modular Synthesizer)
+* |klaus_scheuermann| (Modular Synthesizer)
 * Pascal Staudt (Push Pull)
 * Robin Burke (Modular Synthesizer)
 * Rodrigo Sena (Modular Synthesizer)
@@ -53,4 +53,16 @@ Past and inactive members
 .. |ak| raw:: html
 
   <a href="https://www.ak.tu-berlin.de" target="_blank">Audio Communication Group</a>
+
+.. |david_runge| raw:: html
+
+  <a href="https://sleepmap.de" target="_blank">David Runge</a>
+
+.. |henrik_von_coler| raw:: html
+
+  <a href="http://hvc.berlin" target="_blank">Henrik von Coler</a>
+
+.. |klaus_scheuermann| raw:: html
+
+  <a href="http://trummerschlunk.de" target="_blank">Klaus Scheuermann</a>
 
