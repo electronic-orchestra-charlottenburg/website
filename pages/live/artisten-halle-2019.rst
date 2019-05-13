@@ -18,13 +18,16 @@ solo performances by **AA..LL**, **1)3\\/1532** and **TRUMMERSCHLUNK**.
 Pieces
 ######
 
-* *Coffee Rings* by Robert Stokowy (2018)
+
 
 * *Heavy Rotations* by Henrik von Coler (2019)
 
 |eoc-heavyrotations| 
 
 
+* *Coffee Rings* by Robert Stokowy (2018)
+
+|eoc-coffeerings| 
 
 
 Cast
@@ -49,4 +52,11 @@ Cast
 
   <audio controls preload="none">
     <source src="https://static.eo-charlottenburg.de/audio/20190308-EOC-HeavyRotations.mp3" type="audio/mp3">
+  </audio>
+
+
+.. |eoc-coffeerings| raw:: html
+
+  <audio controls preload="none">
+    <source src="https://static.eo-charlottenburg.de/audio/20190308-EOC-CoffeeRings.mp3" type="audio/mp3">
   </audio>
