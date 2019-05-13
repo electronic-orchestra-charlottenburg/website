@@ -14,13 +14,18 @@ On 8th March 2019 the EOC played at the Artisten-Halle, Berlin on their
 (surprisingly bassy) eight-channel speaker system. The evening was shared with
 solo performances by **AA..LL**, **1)3\\/1532** and **TRUMMERSCHLUNK**.
 
-.. image:: /images/20190308-eoc-flyer.jpg
 
 Pieces
 ######
 
 * *Coffee Rings* by Robert Stokowy (2018)
+
 * *Heavy Rotations* by Henrik von Coler (2019)
+
+|eoc-heavyrotations| 
+
+
+
 
 Cast
 ####
@@ -35,3 +40,13 @@ Cast
 * Paul Schuladen (Tech, Recording)
 * Robin Burke (Modular Synthesizer)
 * Rodrigo Sena (Modular Synthesizer)
+
+
+
+.. image:: /images/20190308-eoc-flyer.jpg
+
+.. |eoc-heavyrotations| raw:: html
+
+  <audio controls preload="none">
+    <source src="https://static.eo-charlottenburg.de/audio/20190308-EOC-HeavyRotations.mp3" type="audio/mp3">
+  </audio>
