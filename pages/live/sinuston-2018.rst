@@ -19,8 +19,16 @@ Pieces
 ######
 
 * "Treatise" by Cornelius Cardew
+
+  |video_treatise|
+
 * "Discount" by Henrik von Coler
+
+  |video_discount|
+
 * "Coffee Rings" by Robert Stokowy
+
+  |video_coffee_rings|
 
 Cast
 ####
@@ -51,3 +59,22 @@ Coler, Jonas Margraf and Pascal Staudt.
 .. |sinuston_festival| raw:: html
 
   <a href="http://programm18.sinuston.org/" target="_blank">Sinuston Festival</a>
+
+.. |video_treatise| raw:: html
+
+  <video width="960" height="540" controls>
+    <source src="https://static.eo-charlottenburg.de/video/20181028-EOC-Treatise.mp4" type="video/mp4">
+  </video>
+
+.. |video_discount| raw:: html
+
+  <video width="960" height="540" controls>
+    <source src="https://static.eo-charlottenburg.de/video/20181028-EOC-Discount.mp4" type="video/mp4">
+  </video>
+
+.. |video_coffee_rings| raw:: html
+
+  <video width="960" height="540" controls>
+    <source src="https://static.eo-charlottenburg.de/video/20181028-EOC-Coffee_Rings.mp4" type="video/mp4">
+  </video>
+
