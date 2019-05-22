@@ -18,15 +18,18 @@ Henrik von Coler and Robert Stokowy (of which the latter was a premiere).
 Pieces
 ######
 
-* "Treatise" by Cornelius Cardew
+"Treatise" by Cornelius Cardew (1963 - 1967)
+--------------------------------------------
 
   |video_treatise|
 
-* "Discount" by Henrik von Coler
+"Discount" by Henrik von Coler (2017)
+-------------------------------------
 
   |video_discount|
 
-* "Coffee Rings" by Robert Stokowy
+"Coffee Rings" by Robert Stokowy (2018)
+---------------------------------------
 
   |video_coffee_rings|
 
