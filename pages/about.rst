@@ -26,7 +26,7 @@ Current members
 * Anyere Bendrien (Modular Synthesizer)
 * |david_runge| (Modular Synthesizer)
 * |henrik_von_coler| (Mixing, Spatialization)
-* Jonas Margraf (Modular Synthesizer)
+* |jonas_margraf| (Modular Synthesizer)
 * |klaus_scheuermann| (Modular Synthesizer)
 * Pascal Staudt (Push Pull)
 * Robin Burke (Modular Synthesizer)
@@ -61,6 +61,10 @@ Past and inactive members
 .. |henrik_von_coler| raw:: html
 
   <a href="http://hvc.berlin" target="_blank">Henrik von Coler</a>
+ 
+.. |jonas_margraf| raw:: html
+
+  <a href="http://jonasmargraf.com" target="_blank">Jonas Margraf</a>
 
 .. |klaus_scheuermann| raw:: html
 
