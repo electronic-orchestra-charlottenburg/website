@@ -24,14 +24,17 @@ Pieces
 
 "Rotation" by Henrik von Coler (2017)
 -------------------------------------
+
 |eoc-rotation|
 
 "Discount" by Henrik von Coler (2017)
 -------------------------------------
+
 |eoc-discount|
 
 "Improvisation"
 ---------------
+
 |eoc-improvisation|
 
 Cast

@@ -33,14 +33,17 @@ Pieces
 
 "Metaphysics of Notation" by Mark Applebaum (2008)
 --------------------------------------------------
+
 |eoc-metaphysics_of_notation| [1]_
 
-"Treatise" by Cornelius Cardew (1967)
--------------------------------------
+"Treatise" by Cornelius Cardew (1963 - 1967)
+--------------------------------------------
+
 |eoc-treatise| [1]_
 
 "Discount" by Henrik von Coler (2017)
 -------------------------------------
+
 |eoc-discount| [1]_
 
 .. [1] Dummy head recordings, mixed with synthesized binaural mix from the

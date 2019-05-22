@@ -18,17 +18,16 @@ solo performances by **AA..LL**, **1)3\\/1532** and **TRUMMERSCHLUNK**.
 Pieces
 ######
 
+"Heavy Rotations" by Henrik von Coler (2019)
+--------------------------------------------
+
+|eoc-heavyrotations|
 
 
-* *Heavy Rotations* by Henrik von Coler (2019)
+"Coffee Rings" by Robert Stokowy (2018)
+---------------------------------------
 
-|eoc-heavyrotations| 
-
-
-* *Coffee Rings* by Robert Stokowy (2018)
-
-|eoc-coffeerings| 
-
+|eoc-coffeerings|
 
 Cast
 ####
@@ -44,9 +43,7 @@ Cast
 * Robin Burke (Modular Synthesizer)
 * Rodrigo Sena (Modular Synthesizer)
 
-
-
-.. image:: /images/20190308-eoc-flyer.jpg
+.. image:: /images/20190308-eoc-flyer.thumbnail.jpg
 
 .. |eoc-heavyrotations| raw:: html
 
