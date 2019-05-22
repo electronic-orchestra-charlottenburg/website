@@ -15,7 +15,10 @@ On 9th June 2018, the EOC played at the |lac2018| in Berlin.
 Pieces
 ######
 
-* "Rotations 2" by Henrik von Coler
+"Rotations 2" by Henrik von Coler (2017)
+----------------------------------------
+
+|lac2018_video|
 
 Cast
 ####
@@ -30,17 +33,10 @@ Cast
 * Paul Schuladen (Tech, Recording)
 * Robin Burke (Modular Synthesizer)
 
-Media
-#####
-
-.. hopefully we can embed this via the media directive at some point: https://github.com/getnikola/nikola/issues/3253
-
-|lac2018_video|
-
 .. |lac2018| raw:: html
 
   <a href="https://lac.linuxaudio.org/2018/pages/event/47/" target="_blank">Linux Audio Conference 2018</a>
 
 .. |lac2018_video| raw:: html
 
-  <iframe width="1024" height="576" src="https://media.ccc.de/v/lac2018-47-rotations_2/oembed" frameborder="0" allowfullscreen></iframe>
+  <iframe width="960" height="540" src="https://media.ccc.de/v/lac2018-47-rotations_2/oembed" frameborder="0" allowfullscreen></iframe>
