@@ -14,7 +14,6 @@ On 8th March 2019 the EOC played at the Artisten-Halle, Berlin on their
 (surprisingly bassy) eight-channel speaker system. The evening was shared with
 solo performances by **AA..LL**, **1)3\\/1532** and **TRUMMERSCHLUNK**.
 
-
 Pieces
 ######
 

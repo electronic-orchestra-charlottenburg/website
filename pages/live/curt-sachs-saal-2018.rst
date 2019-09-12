@@ -67,6 +67,11 @@ Cast
 * Paul Schuladen (Tech, Recording)
 * Viktor Schlüter (Analog Synthesizer)
 
+Media Coverage
+##############
+
+* |digital_in_berlin|
+
 .. |eoc-discount| raw:: html
 
   <audio controls preload="none">
@@ -84,3 +89,7 @@ Cast
   <audio controls preload="none">
     <source src="https://static.eo-charlottenburg.de/audio/20180313-EOC-Metaphysics_of_Notation.mp3" type="audio/mp3">
   </audio>
+
+.. |digital_in_berlin| raw:: html
+
+  <a href="http://www.digitalinberlin.de/eco-curt-sachs-saal-2018/" target="_blank">Digital in Berlin</a>
