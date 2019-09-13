@@ -68,6 +68,22 @@ To deploy the website to its webserver destination:
 
 | You need to have a valid ssh key on the remote host machine.
 
+Adding pictures
+###############
+
+| There are two locations for pictures: *images* (for images, that are embedded
+| in the pages and posts) and *galleries* (for directories of pictures, which
+| will automatically be converted to galleries).
+
+| During creation of the page (using *nikola build*), the application optimizes
+| the input pictures and renders them relatively small (settings for this are in
+| *conf.py*).
+| That means, it is best practice to not add large pictures here, as they will be
+| reduced in size anyways (also, git is not a good tool to store large amounts
+| of binary data). A good guideline is to stay under 400Kb for a picture
+| (e.g. *1280x800*).
+
+
 .. |nikola| raw:: html
 
   <a href="https://getnikola.com/" target="_blank">Nikola</a>
