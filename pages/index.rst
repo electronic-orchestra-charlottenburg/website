@@ -8,4 +8,4 @@
 .. type: text
 .. hidetitle: True
 
-.. image:: /images/index.jpg
+.. image:: /images/20190909-eoc-en325.jpg
