@@ -11,7 +11,7 @@ Info
 ####
 
 | On *26th October* the EOC will perform at |pact_zollverein| in Essen.
-| The concert is part of the NOW! Festival.
+| The concert is part of the NOW! Festival and |concert_info|.
 
 Pieces
 ######
@@ -49,3 +49,6 @@ Cast
 
   <a href="https://www.zollverein.de/kalender/late-night-konzert" target="_blank">PACT Zollverein</a>
 
+.. |concert_info| raw:: html
+
+  <a href="https://www.pact-zollverein.de/en/programme/late-night-concert-dj-session" target="_blank">starts at 21:30</a>
