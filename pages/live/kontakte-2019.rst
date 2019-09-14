@@ -12,7 +12,8 @@ Info
 
 | On *26th September* the EOC will perform at |kontakte_2019|, at the |adk| in
   the |late_night_programme| (22:30 - 0:00).
-| The concert is part of the |month_of_contemporary_music|.
+| The concert is part of the |month_of_contemporary_music|. It will premiere
+  |robert_stokowy|'s piece *"Blodgett"* and feature animations by Matt Hughes.
 
 Pieces
 ######
@@ -62,3 +63,7 @@ Cast
 .. |adk| raw:: html
 
   <a href="https://www.openstreetmap.org/relation/1579685#map=19/52.51829/13.34667" target="_blank">AdK</a>
+
+.. |robert_stokowy| raw:: html
+
+  <a href="https://www.robert-stokowy.de/" target="_blank">Robert Stokowy</a>
