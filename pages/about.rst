@@ -1,4 +1,4 @@
-.. title: About
+.. title: Das Elektronische Orchester Charlottenburg
 .. slug: about
 .. date: 2019-04-07 20:10:18 UTC+02:00
 .. tags: 
@@ -13,6 +13,17 @@ diverse electronic instruments and their spatialization in real time. The EOC
 was founded at the |electronic_music_studio| at |tu-berlin| within a seminar of
 the |ak|. It offers a platform for developing and applying
 new instruments and concepts in the realm of electroacoustic music.
+
+
+
+.. topic:: **EOC Image Film by |prostmann|**
+
+   A short movie, introducing the EOC:	   
+
+   .. vimeo:: 360152113
+      :height: 240
+      :width: 320
+
 
 The EOC consists of a group of electronic and/or electro-acoustic musicians and
 programmers. Its sound is dispersed over multi-channel systems with the help of
