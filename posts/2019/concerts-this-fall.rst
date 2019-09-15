@@ -7,18 +7,14 @@
 .. description: 
 .. type: text
 
-We are happy to announce further information on the upcoming concerts in
-September and October.
-
-On 26th September, we are part of the `late night programme of Kontakte 2019
+The EOC is starting a small tour in fall 2019 -
+on 26th September, we are part of the `Kontakte 2019 at AdK Berlin
 </live/kontakte-2019>`_ and will perform the premiere of |robert_stokowy|'s
-piece "Blodgett" (amongst others).
+piece "Blodgett".
 
-Exactly one month later, on 26th October we will perform (yet another late
-night programme) at `PACT Zollverein in Essen as part of NOW!
+Exactly one month later, on 26th October we will perform  at `PACT Zollverein in Essen as part of NOW!
 </live/now-2019>`_.
 
-We hope to see you at one or the other concert!
 
 .. |robert_stokowy| raw:: html
 

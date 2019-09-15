@@ -7,8 +7,6 @@
 .. description: 
 .. type: text
 
-The Electronic Orchestra Charlottenburg (EOC) plays live shows. Here you can
-find all information on past and upcoming events.
 
 Upcoming Events
 ###############

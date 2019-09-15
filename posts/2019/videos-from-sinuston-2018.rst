@@ -8,15 +8,13 @@
 .. type: text
 
 We have just added `a batch of videos </live/sinuston-2018>`_, renderered from
-our performance at |sinuston_festival_2018|.
+our performance at |sinuston_festival_2018| - *Kirche Unser Lieben Frauen*, part of |kunstmuseum_magdeburg|.
+
 
 The videos feature the graphical notation of each piece in realtime. As we
 performed over a multi-channel system, the accompanying audio is a binaural
 representation of the spatialization done on site (and therefore best
 experienced over headphones).
-
-We hope you enjoy the pieces, as much as we enjoyed performing them in the
-*Kirche Unser Lieben Frauen*, part of |kunstmuseum_magdeburg|.
 
 .. |sinuston_festival_2018| raw:: html
 
