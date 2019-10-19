@@ -14,11 +14,11 @@ Upcoming Events
 ###############
 
 * 2019-10-26: `NOW! </live/now-2019>`_, Essen
-* 2019-09-26: `Kontakte 2019 </live/kontakte-2019>`_ (Adk), Berlin
 
 Past Events
 ###########
 
+* 2019-09-26: `Kontakte 2019 </live/kontakte-2019>`_ (Adk), Berlin
 * 2019-03-09: `Artisten-Halle </live/artisten-halle-2019>`_ (Holzmarkt), Berlin
 * 2018-10-28: `Sinuston </live/sinuston-2018>`_, Magdeburg
 * 2018-06-09: `Linux Audio Conference 2018 </live/linux-audio-conference-2018>`_ (Native Space), Berlin
