@@ -16,7 +16,7 @@ new instruments and concepts in the realm of electroacoustic music.
 
 
 
-.. topic:: **EOC Image Film by |prostmann|**
+.. topic:: ** EOC Image Film by |porstmann| **
 
    A short movie, introducing the EOC:	   
 
@@ -80,4 +80,8 @@ Past and inactive members
 .. |klaus_scheuermann| raw:: html
 
   <a href="http://trummerschlunk.de" target="_blank">Klaus Scheuermann</a>
+
+.. |porstmann| raw:: html
+
+  <a href="https://www.torstenporstmann.com/" target="_blank">Torsten Porstmann</a>
 

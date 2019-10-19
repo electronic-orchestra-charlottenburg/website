@@ -7,12 +7,39 @@
 .. description: 
 .. type: text
 
-Info
-####
 
-| On *26th September* the EOC will perform at |kontakte_2019|, at the |adk| in
+| On *26th September* the EOC performed at |kontakte_2019|, at the |adk| in
   the |late_night_programme| (22:30 - 0:00).
-| The concert is part of the |month_of_contemporary_music|.
+| The concert was part of the |month_of_contemporary_music|.
+
+
+
+.. topic:: **EOC live at Kontakte Festival 2019**
+
+	   | *September 26, 22:30*
+	   | *AdK, Hanseatenweg 10, 10577 Berlin*
+	 
+	      
+Late night concert within the festival `Kontakte 2019 <https://www.adk.de/en/projects/2019/kontakte19/programme.htm>`_,
+premiering *Blodgett*, by |robert_stokowy| - a commissioned work for the EOC.
+Another part of the program is  *DISCOUNT* by Henrik von Coler, which is featured in the
+advertising campaign for the |monat|:
+
+.. thumbnail:: /images/2019-09-15_discount_plakat.jpg
+	       :alt: INM posters with DISCOUNT graphics
+	       :width: 300
+	       :align: center
+
+|
+		  
+The EOC will also premiere an adaption of
+|s_tog| by Mark Applebaum and perform an interpretation of the classic graphical score *Treatise* (1963-1967) by Cornelius Cardew.
+For this concert, the EOC is teaming up with visual artist Matt Hughes from Sydney, to
+generate a highly integrated audiovisual concept.
+See the `detailed program </live/kontakte-2019>`_!
+	
+
+
 
 Pieces
 ######
@@ -62,3 +89,16 @@ Cast
 .. |adk| raw:: html
 
   <a href="https://www.openstreetmap.org/relation/1579685#map=19/52.51829/13.34667" target="_blank">AdK</a>
+
+  
+.. |monat| raw:: html
+		 
+  <a href="https://www.field-notes.berlin/de/festivals/34637/monat-der-zeitgenssischen-musik/34638/festival/" target="_blank">Month of Conteporary Music</a>
+
+.. |s_tog| raw:: html
+
+  <a href="http://www.markapplebaum.com/stog.html" target="_blank">S-tog</a>
+
+.. |robert_stokowy| raw:: html
+
+  <a href="https://www.robert-stokowy.de/" target="_blank">Robert Stokowy</a>
