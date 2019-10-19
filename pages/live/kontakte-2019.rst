@@ -10,9 +10,14 @@
 Info
 ####
 
-| On *26th September* the EOC will perform at |kontakte_2019|, at the |adk| in
-  the |late_night_programme| (22:30 - 0:00).
-| The concert is part of the |month_of_contemporary_music|.
+| On *26th September* the EOC will perform at |adk_location|.
+| The concert is part of the |late_night_programme| of the festival
+  |kontakte_2019| within the |month_of_contemporary_music| and starts at
+  **22:30**.
+| It will premiere |robert_stokowy|'s piece *"Blodgett"* and feature live
+  animations by Matt Hughes.
+
+------------
 
 Pieces
 ######
@@ -31,6 +36,9 @@ Pieces
 
 "Heavy Rotations" by Henrik von Coler (2019)
 --------------------------------------------
+|
+
+------------
 
 Cast
 ####
@@ -59,6 +67,10 @@ Cast
 
   <a href="https://www.field-notes.berlin/en/festivals/34637/month-of-contemporary-music/34638/festival/" target="_blank">Month of Contemporary Music</a>
 
-.. |adk| raw:: html
+.. |adk_location| raw:: html
 
-  <a href="https://www.openstreetmap.org/relation/1579685#map=19/52.51829/13.34667" target="_blank">AdK</a>
+  <a href="https://www.openstreetmap.org/relation/1579685" target="_blank">AdK, Hanseatenweg 10, 10557 Berlin</a>
+
+.. |robert_stokowy| raw:: html
+
+  <a href="https://www.robert-stokowy.de/" target="_blank">Robert Stokowy</a>

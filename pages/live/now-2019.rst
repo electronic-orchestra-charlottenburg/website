@@ -10,8 +10,11 @@
 Info
 ####
 
-| On *26th October* the EOC will perform at |pact_zollverein| in Essen.
-| The concert is part of the NOW! Festival.
+| On *26th October* the EOC will perform at |pact_zollverein_location|.
+| The concert is part of the |late_night_concert_and_dj_session| programme of
+  the festival *NOW! Transit* and will start at **21:30**.
+
+------------
 
 Pieces
 ######
@@ -30,6 +33,9 @@ Pieces
 
 "Heavy Rotations" by Henrik von Coler (2019)
 --------------------------------------------
+|
+
+------------
 
 Cast
 ####
@@ -45,7 +51,10 @@ Cast
 * Paul Schuladen (Tech, Recording)
 * Robin Burke (Modular Synthesizer)
 
-.. |pact_zollverein| raw:: html
+.. |pact_zollverein_location| raw:: html
 
-  <a href="https://www.zollverein.de/kalender/late-night-konzert" target="_blank">PACT Zollverein</a>
+  <a href="https://www.openstreetmap.org/way/55070885" target="_blank">PACT Zollverein, Bullmannaue 20a, 45327 Essen</a>
 
+.. |late_night_concert_and_dj_session| raw:: html
+
+  <a href="https://www.pact-zollverein.de/en/programme/late-night-concert-dj-session" target="_blank">Late Night Concert & DJ Session</a>
