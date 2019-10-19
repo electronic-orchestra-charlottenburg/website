@@ -10,12 +10,20 @@
 Info
 ####
 
-| On *26th September* the EOC will perform at |adk_location|.
-| The concert is part of the |late_night_programme| of the festival
+| On *26th September* the EOC performed at |adk_location|.
+| The concert was part of the |late_night_programme| of the festival
   |kontakte_2019| within the |month_of_contemporary_music| and starts at
   **22:30**.
-| It will premiere |robert_stokowy|'s piece *"Blodgett"* and feature live
-  animations by Matt Hughes.
+| It premiered |robert_stokowy|'s piece *"Blodgett"*, an adaption of
+  |s_tog| by Mark Applebaum and an interpretation of the classic graphical score
+  *Treatise* (1963-1967) by Cornelius Cardew.
+| For this concert the EOC teamed up with the Sydney-based visual artist Matt
+  Hughes, to generate a highly integrated audiovisual concept.
+
+.. thumbnail:: /images/20190915-eoc-discount-poster.jpg
+         :alt: INM posters with DISCOUNT graphics
+         :width: 300
+         :align: center
 
 ------------
 
@@ -74,3 +82,8 @@ Cast
 .. |robert_stokowy| raw:: html
 
   <a href="https://www.robert-stokowy.de/" target="_blank">Robert Stokowy</a>
+
+.. |s_tog| raw:: html
+
+  <a href="http://www.markapplebaum.com/stog.html" target="_blank">S-tog</a>
+
