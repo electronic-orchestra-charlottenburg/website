@@ -48,6 +48,7 @@ Cast
 * Jonas Margraf (Modular Synthesizer)
 * Klaus Scheuermann (Modular Synthesizer)
 * Matt Hughes (3D Animation)
+* Miriam Siebenstädt (Modular Synthesizer)
 * Paul Schuladen (Tech, Recording)
 * Robin Burke (Modular Synthesizer)
 
