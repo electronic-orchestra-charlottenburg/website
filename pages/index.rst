@@ -12,13 +12,4 @@
   :align: center
   :alt: EOC at the TU Studio
 
-------------------------
 
-.. topic:: **EOC live at NOW! Festival**
-
-    | *October 26, 21:30*
-    | *PACT Zollverein, Bullmannaue 20a, Essen* 
-
-Concert at  `PACT Zollverein in Essen as part of NOW!
-<https://www.pact-zollverein.de/en/programme/late-night-concert-dj-session>`_ -
-see  `the program </live/now-2019>`_
