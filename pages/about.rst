@@ -41,7 +41,7 @@ Current members
 * |klaus_scheuermann| (Modular Synthesizer)
 * Pascal Staudt (Push Pull)
 * Robin Burke (Modular Synthesizer)
-* Rodrigo Sena (Modular Synthesizer)
+* Miriam Siebenstädt (Modular Synthesizer)
 
 Past and inactive members
 -------------------------
@@ -52,6 +52,7 @@ Past and inactive members
 * Lucas Weidinger (Modular Synthesizer)
 * Nicole Lujan (Processed Recordings)
 * Viktor Schlüter (Analog Synthesizer)
+* Rodrigo Sena (Modular Synthesizer)
 
 .. |electronic_music_studio| raw:: html
 
