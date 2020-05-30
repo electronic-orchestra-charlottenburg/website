@@ -7,17 +7,11 @@
 .. description: 
 .. type: text
 
-The Electronic Orchestra Charlottenburg (EOC) plays live shows. Here you can
-find all information on past and upcoming events.
-
-Upcoming Events
-###############
-
-* 2020-05-02: HUB Mode, Silent Green, Berlin
 
 Past Events
 ###########
 
+* 2020-05-02: `HUB Mode </live/hub-mode>`_, Silent Green, Berlin
 * 2019-10-26: `NOW! </live/now-2019>`_, Essen
 * 2019-09-26: `Kontakte 2019 </live/kontakte-2019>`_ (Adk), Berlin
 * 2019-03-09: `Artisten-Halle </live/artisten-halle-2019>`_ (Holzmarkt), Berlin

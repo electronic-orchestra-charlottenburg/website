@@ -14,12 +14,3 @@
 
 	
 
-.. topic:: EOC live at Silent Green, Berlin
-
-
-	   * **05.02.2020**
-	   * Live performance in within the **HUB Mode** event.
-
-	   The EOC will perform an improvisation using a novel
-	   audio connection system, enabling an enhanced way
-	   of interaction between the musicians. More details soon.
