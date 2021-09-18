@@ -136,7 +136,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/news", "News"),
+        #("/news", "News"),
         ("/live", "Live"),
         ("/photos", "Photos"),
         ("/about", "About"),
