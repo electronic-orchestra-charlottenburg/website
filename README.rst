@@ -95,4 +95,3 @@ Adding pictures
 .. |rst| raw:: html
 
   <a href="http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html" target="_blank">reStructuredText</a>
-
