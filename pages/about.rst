@@ -1,11 +1,17 @@
 .. title: Das Elektronische Orchester Charlottenburg
 .. slug: about
 .. date: 2019-04-07 20:10:18 UTC+02:00
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
+
+.. image:: /images/20190909-eoc-en325.jpg
+  :align: center
+  :alt: EOC at the TU Studio
+
+-----
 
 The Electronic Orchestra Charlottenburg (EOC) explores the improvisation and
 interpretation of Electroacoustic Music. This includes the interaction of
@@ -73,7 +79,7 @@ Past and inactive members
 .. |henrik_von_coler| raw:: html
 
   <a href="http://hvc.berlin" target="_blank">Henrik von Coler</a>
- 
+
 .. |jonas_margraf| raw:: html
 
   <a href="http://jonasmargraf.com" target="_blank">Jonas Margraf</a>
@@ -85,4 +91,3 @@ Past and inactive members
 .. |porstmann| raw:: html
 
   <a href="https://www.torstenporstmann.com/" target="_blank">Torsten Porstmann</a>
-

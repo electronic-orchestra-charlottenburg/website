@@ -3,3 +3,4 @@
 .. tags: photos, gallery
 .. category: photos
 .. summary:
+.. hidetitle: True

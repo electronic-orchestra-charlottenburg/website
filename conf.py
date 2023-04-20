@@ -14,6 +14,8 @@ import time
 # ! Option (a) is used when you don't want that setting translated.
 # ! Option (b) is used for settings that are different in different languages.
 
+THEME="bootstrap4"
+
 
 # Data about this site
 BLOG_AUTHOR = "Elektronisches Orchester Charlottenburg"  # (translatable)
@@ -25,69 +27,9 @@ SITE_URL = "https://eo-charlottenburg.de/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://eo-charlottenburg.de/"
 BLOG_EMAIL = "voncoler@tu-berlin.de"
-BLOG_DESCRIPTION = "Information on the Electronic Orchestra Charlottenburg"  # (translatable)
+BLOG_DESCRIPTION = "Experimental Synth & Live Electronics"  # (translatable)
 
-# Nikola is multilingual!
-#
-# Currently supported languages are:
-#
-# en        English
-# af        Afrikaans
-# ar        Arabic
-# az        Azerbaijani
-# bg        Bulgarian
-# bs        Bosnian
-# ca        Catalan
-# cs        Czech [ALTERNATIVELY cz]
-# da        Danish
-# de        German
-# el        Greek [NOT gr]
-# eo        Esperanto
-# es        Spanish
-# et        Estonian
-# eu        Basque
-# fa        Persian
-# fi        Finnish
-# fr        French
-# gl        Galician
-# he        Hebrew
-# hi        Hindi
-# hr        Croatian
-# hu        Hungarian
-# ia        Interlingua
-# id        Indonesian
-# it        Italian
-# ja        Japanese [NOT jp]
-# ko        Korean
-# lt        Lithuanian
-# ml        Malayalam
-# nb        Norwegian (Bokmål)
-# nl        Dutch
-# pa        Punjabi
-# pl        Polish
-# pt        Portuguese
-# pt_br     Portuguese (Brazil)
-# ru        Russian
-# sk        Slovak
-# sl        Slovene
-# sq        Albanian
-# sr        Serbian (Cyrillic)
-# sr_latin  Serbian (Latin)
-# sv        Swedish
-# te        Telugu
-# th        Thai
-# tr        Turkish [NOT tr_TR]
-# uk        Ukrainian
-# ur        Urdu
-# vi        Vietnamese
-# zh_cn     Chinese (Simplified)
-# zh_tw     Chinese (Traditional)
-#
-# If you want to use Nikola with a non-supported language you have to provide
-# a module containing the necessary translations
-# (cf. the modules at nikola/data/themes/base/messages/).
-# If a specific post is not translated to a language, then the version
-# in the default language will be shown instead.
+
 
 # What is the default language?
 DEFAULT_LANG = "en"
@@ -137,7 +79,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         #("/news", "News"),
-        ("/live", "Live"),
+        #("/audio", "Audio"),
+        ("/repertoire", "Repertoire"),
+        ("/past_events", "Past Events"),
         ("/photos", "Photos"),
         ("/about", "About"),
         ("/contact", "Contact"),
@@ -150,9 +94,6 @@ NAVIGATION_LINKS = {
 NAVIGATION_ALT_LINKS = {
     DEFAULT_LANG: {}
 }
-
-# Name of the theme to use.
-THEME = "bootstrap4"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
@@ -272,7 +213,10 @@ TIMEZONE = "Europe/Berlin"
 # Default is:
 # FILES_FOLDERS = {'files': ''}
 # Which means copy 'files' into 'output'
-
+FILES_FOLDERS = {
+                'audio': 'audio',
+                'videos': 'videos'
+                }
 # One or more folders containing code listings to be processed and published on
 # the site. The format is a dictionary of {source: relative destination}.
 # Default is:
