@@ -10,22 +10,24 @@
 Original Works
 --------------
 
-.. post-list::
-   :categories: repertoire
-   :sort: priority
+- `DISCOUNT </repertoire/discount>`_
 
+- `Heavy Rotations </repertoire/heavy_rotations>`_
+
+- `Sprawl Voices </repertoire/sprawl_voices>`_
 
 
 Adaptions
 ---------
 
-.. post-list::
-   :categories: adaption
-   :sort: priority
+- `Metaphysics of Notation <repertoire/metaphysics>`_
+
+- `S-Tog </repertoire/s-tog>`_
+
+- `Treatise </repertoire/treatise>`_
 
 Commissions
 -----------
 
-.. post-list::
-   :categories: commission
-   :sort: priority
+- `Blodgett </repertoire/blodgett>`_
+- `Coffee Rings </repertoire/coffee_rings>`_

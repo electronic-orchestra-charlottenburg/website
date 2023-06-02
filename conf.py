@@ -26,7 +26,7 @@ SITE_URL = "https://eo-charlottenburg.de/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://eo-charlottenburg.de/"
-BLOG_EMAIL = "voncoler@tu-berlin.de"
+BLOG_EMAIL = "contact@hvc.berlin"
 BLOG_DESCRIPTION = "Experimental Synth & Live Electronics"  # (translatable)
 
 
@@ -157,10 +157,10 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
-    ("posts/*.rst", "news", "post.tmpl"),
-    ("posts/*.md", "news", "post.tmpl"),
-    ("posts/*.txt", "news", "post.tmpl"),
-    ("posts/*.html", "news", "post.tmpl"),
+    ("posts/*.rst", "", "post.tmpl"),
+    ("posts/*.md", "", "post.tmpl"),
+    ("posts/*.txt", "", "post.tmpl"),
+    ("posts/*.html", "", "post.tmpl"),
 )
 PAGES = (
     ("pages/*.rst", "", "page.tmpl"),

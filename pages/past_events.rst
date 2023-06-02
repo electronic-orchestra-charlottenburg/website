@@ -11,6 +11,7 @@
 Past Events
 -----------
 
+* 2023-05-22: EOC at Intersonsanzen 2023
 * 2022-03-05: `EOC performing "Body Sounds" </past_events/body-sounds-2022>`_, ACUD, Berlin
 * 2021-11-31: `EOC's Golden Record </past_events/golden-records-2021>`_, Emmaus Kirche, Berlin
 * 2020-05-02: `HUB Mode </past_events/hub-mode>`_, Silent Green, Berlin
