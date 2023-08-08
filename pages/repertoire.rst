@@ -14,13 +14,15 @@ Original Works
 
 - `Heavy Rotations </repertoire/heavy_rotations>`_
 
+- `Chaos in the Garden </repertoire/chaos_in_the_garden>`_
+
 - `Sprawl Voices </repertoire/sprawl_voices>`_
 
 
-Adaptions
----------
+Adaptations
+-----------
 
-- `Metaphysics of Notation <repertoire/metaphysics>`_
+- `Metaphysics of Notation </repertoire/metaphysics>`_
 
 - `S-Tog </repertoire/s-tog>`_
 

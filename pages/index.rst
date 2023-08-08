@@ -9,26 +9,23 @@
 .. hidetitle: True
 
 
-Upcoming: EOC at Intersonsanzen 2023
-====================================
+The EOC @ Chaos Communication Camp
+==================================
 
-The EOC will premiere the AI-generated score `Chaos in the Garden`  for spatial experimental music at the Intersonsanzen Festival.
+ 
+.. figure:: /images/closed_captions_tos.png
+  :width: 40%
+  :align: center
 
-EOC::
+  CLOSED_CAPTIONS - EOC Debut!
 
-    Create an experimental music score for 5 arbitrary instruments.
 
-ChatGPT::
+The EOC will play at `Chaos Communication Camp 2023 <https://events.ccc.de/camp/2023/infos/index.html>`_:
 
-    I'm sorry, as an AI language model, I don't have the capability to create a graphic or visual representation of a music score. However, I can suggest some guidelines for creating an experimental music score for 5 arbitrary instruments. Here are some ideas:
+- August 18
+- 19:00 
+- Ziegeleipark Mildenberg, Zehdenick (Marktplatz)
 
------
 
-- May 22 2023, 20:00
-- Potsdam Museum, Kunsthaus sans titre, KunstHaus Potsdam, Innenstadt
+`Click for more information! <https://pretalx.c3voc.de/camp2023/talk/N8ZSFH/>`_
 
------
-
-More information on the festival:
-
-https://www.neue-musik-brandenburg.de/intersonanzen/
